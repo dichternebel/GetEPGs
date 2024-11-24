@@ -1,0 +1,8 @@
+﻿# Put URLs to download EPGs one per line here
+# The following are working examples from https://tvprofil.net/
+
+https://tvprofil.net/xmltv/data/rtl-de.de/weekly_rtl-de.de_tvprofil.net.xml.gz
+https://tvprofil.net/xmltv/data/kabel-1.de/weekly_kabel-1.de_tvprofil.net.xml.gz
+https://tvprofil.net/xmltv/data/pro-7.de/weekly_pro-7.de_tvprofil.net.xml.gz
+https://tvprofil.net/xmltv/data/sat-1.de/weekly_sat-1.de_tvprofil.net.xml.gz
+https://tvprofil.net/xmltv/data/zdf.de/weekly_zdf.de_tvprofil.net.xml.gz
